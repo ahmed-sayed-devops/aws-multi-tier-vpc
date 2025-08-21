@@ -142,7 +142,7 @@ Cloud & DevOps Enthusiast
 Student at Faculty of Engineering  
 [LinkedIn Profile] (https://www.linkedin.com/in/ahmed-sayed-devops-cloud)
 
-----------
+---------
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
