@@ -7,7 +7,7 @@ It's part of a beginner-level hands-on capstone project to apply AWS core servic
 
 ## 🖼 Architecture Diagram
 
-![Architecture Diagram](./architecture-diagram.jpg)
+![Architecture Diagram](architecture-digram.png)
 
 ---
 
